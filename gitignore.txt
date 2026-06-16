@@ -1,3 +1,0 @@
-client-secrets.json
-token.json
-responses_token.json
